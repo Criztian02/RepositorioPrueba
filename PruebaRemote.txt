@@ -1,1 +1,2 @@
 prueba remoto
+*prueba el comando pull para ver los cambios hechos por alguien mas este es el bueno :)
